@@ -1,0 +1,180 @@
+{
+    "maximum_bit_depth": 24,
+    "copyright": "2020 Riot Games 2020 Riot Games",
+    "product_url": "/fr-fr/album/more-k-da-madison-beer-and-gi-dle-featuring-lexie-liu-jaira-burns-seraphine-and-league-of-legends/fggl3uplascxb",
+    "media_count": 1,
+    "product_sales_factors_weekly": 0,
+    "artist": {
+        "id": 4131500,
+        "name": "K/DA",
+        "slug": "kda-1",
+        "albums_count": 4,
+        "picture": None,
+        "image": None
+    },
+    "genres_list": [
+        "Pop/Rock",
+        "Pop/Rock→Pop"
+    ],
+    "created_at": 1601504491,
+    "description": "",
+    "released_at": 1603839600,
+    "product_sales_factors_monthly": 0,
+    "release_tags": [],
+    "title": "MORE",
+    "duration": 217,
+    "parental_warning": False,
+    "artists": [
+        {
+            "id": 7987275,
+            "name": "K/DA, Madison Beer and (G)I-DLE featuring Lexie Liu, Jaira Burns, Seraphine and League of Legends",
+            "roles": [
+                "artist"
+            ]
+        }
+    ],
+    "popularity": 0,
+    "genre": {
+        "id": 117,
+        "color": "#5eabc1",
+        "name": "Pop",
+        "path": [
+            112,
+            117
+        ],
+        "slug": "pop"
+    },
+    "catchline": "",
+    "id": "fggl3uplascxb",
+    "slug": "more-k-da-madison-beer-and-gi-dle-featuring-lexie-liu-jaira-burns-seraphine-and-league-of-legends",
+    "image": {
+        "large": "https: //static.qobuz.com/images/covers/xb/sc/fggl3uplascxb_600.jpg",
+        "small": "https://static.qobuz.com/images/covers/xb/sc/fggl3uplascxb_230.jpg",
+        "thumbnail": "https://static.qobuz.com/images/covers/xb/sc/fggl3uplascxb_50.jpg",
+        "back": None
+    },
+    "article_ids": {
+        "LLS": 285098210,
+        "SMR": 285098211,
+        "SHP": 285098212
+    },
+    "composer": {
+        "id": 4124247,
+        "name": "Sebastien Najand",
+        "slug": "sebastien-najand",
+        "albums_count": 4,
+        "picture": None,
+        "image": None
+    },
+    "upc": "0811395035795",
+    "release_type": "single",
+    "label": {
+        "id": 251894,
+        "name": "Riot Games",
+        "slug": "riot-games",
+        "supplier_id": 41,
+        "albums_count": 63
+    },
+    "product_sales_factors_yearly": 0,
+    "qobuz_id": 102850276,
+    "version": None,
+    "url": "https://www.qobuz.com/us-en/album/more-k-da-madison-beer-and-gi-dle-featuring-lexie-liu-jaira-burns-seraphine-and-league-of-legends/fggl3uplascxb",
+    "maximum_technical_specifications": "24 bits / 48.0 kHz - Stereo",
+    "relative_url": "/album/more-k-da-madison-beer-and-gi-dle-featuring-lexie-liu-jaira-burns-seraphine-and-league-of-legends/fggl3uplascxb",
+    "product_type": "single",
+    "subtitle": "K/DA, Madison Beer and (G)I-DLE featuring Lexie Liu, Jaira Burns, Seraphine and League of Legends",
+    "tracks_count": 1,
+    "maximum_channel_count": 2,
+    "maximum_sampling_rate": 48,
+    "articles": [
+        {
+            "id": 285098210,
+            "url": "/order/285098210",
+            "price": 0.99,
+            "currency": "USD",
+            "type": "lls",
+            "label": "CD-quality",
+            "description": "Lossless 16 bit/44.1 kHz (FLAC, ALAC, WMA, AIFF, WAV)"
+        },
+        {
+            "id": 285098211,
+            "url": "/order/285098211",
+            "price": 1.49,
+            "currency": "USD",
+            "type": "smr",
+            "label": "Hi-Res",
+            "description": "Lossless 24 bits 48 kHz (FLAC, ALAC, WMA, AIFF, WAV)"
+        },
+        {
+            "id": 285098212,
+            "url": "/order/285098212",
+            "price": 0.99,
+            "currency": "USD",
+            "type": "shp",
+            "label": "Hi-Res (with Sublime)",
+            "description": "Lossless 24 bits 48 kHz (FLAC, ALAC, WMA, AIFF, WAV)"
+        }
+    ],
+    "release_date_original": "2020-10-28",
+    "release_date_download": "2020-10-28",
+    "release_date_stream": "2020-10-28",
+    "purchasable": True,
+    "streamable": True,
+    "previewable": True,
+    "sampleable": True,
+    "downloadable": True,
+    "displayable": True,
+    "purchasable_at": 1603839600,
+    "streamable_at": 1603839600,
+    "hires": True,
+    "hires_streamable": True,
+    "tracks": {
+        "offset": 0,
+        "limit": 500,
+        "total": 1,
+        "items": [
+            {
+                "maximum_bit_depth": 24,
+                "copyright": "2020 Riot Games 2020 Riot Games",
+                "performers": "Seraphine, FeaturedArtist - Rebecca Johnson, Lyricist - Madison Beer, MainArtist - Jaira Burns, FeaturedArtist - Lexie Liu, FeaturedArtist - Riot Games, MusicPublisher - League of Legends, FeaturedArtist - Sebastien Najand, Composer - K/DA, MainArtist - (G)I-DLE, MainArtist - Warner Chappell Music, Inc. (BMI), MusicPublisher",
+                "audio_info": {
+                    "replaygain_track_peak": 1,
+                    "replaygain_track_gain": -10.77
+                },
+                "performer": {
+                    "name": "K/DA",
+                    "id": 4131500
+                },
+                "article_ids": {
+                    "LLS": 285098214,
+                    "SMR": 285098215
+                },
+                "work": None,
+                "composer": {
+                    "name": "Sebastien Najand",
+                    "id": 4124247
+                },
+                "isrc": "QZH6S1900273",
+                "title": "MORE",
+                "version": None,
+                "duration": 217,
+                "parental_warning": False,
+                "track_number": 1,
+                "maximum_channel_count": 2,
+                "id": 102850277,
+                "media_number": 1,
+                "maximum_sampling_rate": 48,
+                "purchasable": True,
+                "streamable": True,
+                "previewable": True,
+                "sampleable": True,
+                "downloadable": True,
+                "displayable": True,
+                "purchasable_at": 1603839600,
+                "streamable_at": 1603839600,
+                "hires": True,
+                "hires_streamable": True
+            }
+        ]
+    }
+}

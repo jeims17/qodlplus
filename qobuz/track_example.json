@@ -1,0 +1,42 @@
+{
+    "maximum_bit_depth": 24,
+    "copyright": "2020 Riot Games 2020 Riot Games",
+    "performers": "Seraphine, FeaturedArtist - Rebecca Johnson, Lyricist - Madison Beer, MainArtist - Jaira Burns, FeaturedArtist - Lexie Liu, FeaturedArtist - Riot Games, MusicPublisher - League of Legends, FeaturedArtist - Sebastien Najand, Composer - K/DA, MainArtist - (G)I-DLE, MainArtist - Warner Chappell Music, Inc. (BMI), MusicPublisher",
+    "audio_info": {
+        "replaygain_track_peak": 1,
+        "replaygain_track_gain": -10.77
+    },
+    "performer": {
+        "name": "K/DA",
+        "id": 4131500
+    },
+    "article_ids": {
+        "LLS": 285098214,
+        "SMR": 285098215
+    },
+    "work": None,
+    "composer": {
+        "name": "Sebastien Najand",
+        "id": 4124247
+    },
+    "isrc": "QZH6S1900273",
+    "title": "MORE",
+    "version": None,
+    "duration": 217,
+    "parental_warning": False,
+    "track_number": 1,
+    "maximum_channel_count": 2,
+    "id": 102850277,
+    "media_number": 1,
+    "maximum_sampling_rate": 48,
+    "purchasable": True,
+    "streamable": True,
+    "previewable": True,
+    "sampleable": True,
+    "downloadable": True,
+    "displayable": True,
+    "purchasable_at": 1603839600,
+    "streamable_at": 1603839600,
+    "hires": True,
+    "hires_streamable": True
+}
